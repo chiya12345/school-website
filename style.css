@@ -1,0 +1,10 @@
+body {
+    background-color: peachpuff;
+    text-align:center; 
+}
+.menu{
+    list-style: none;
+    font-size: 30px;
+    font-family: fantasy;
+    cursor: pointer;
+}
